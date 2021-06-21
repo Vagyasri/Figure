@@ -4,6 +4,9 @@
 
 > In this Project i am trying to create 1 or more figures using ruby. This is just for practice purpose.
 
+# Screenshot
+![Mobile The Next Web](Figure.png)
+
 ## Built With
 
 - Ruby
