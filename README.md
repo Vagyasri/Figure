@@ -2,7 +2,7 @@
 
 # Lucky
 
-> In this Project i am trying to create 1 or more figures using ruby. This is just for practice purpose.
+> In this Project i am trying to create 1 or more figure(s) using ruby. This is just for practice purpose.
 
 # Screenshot
 ![Mobile The Next Web](Figure.png)
